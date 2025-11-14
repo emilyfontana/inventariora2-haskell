@@ -38,8 +38,15 @@ O sistema registra:
 
 ---
 
-** O item foi realizado e exucatado por meio do GDB Compiler na linguagem Haskell**
+### É importante lembrar:
+
+** O item foi realizado e exucatado por meio do GDB Compiler na linguagem Haskell **
 
 ---
+### Como funciona?
 
 **Interação realizada por meio de um menu**
+* recebe as informações e confirma se está dentro dos padrões estabelecidos
+* se for válido da sequência nas operações
+
+---
