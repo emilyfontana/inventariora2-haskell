@@ -1,0 +1,35 @@
+LogEntry {timestamp = 2025-11-14 18:05:39.516620984 UTC, acao = Add, detalhes = "Add: 1 - quadro qtd:3", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:06:00.428213189 UTC, acao = Add, detalhes = "Add: 6 - caixa qtd:100", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:06:21.72892961 UTC, acao = Add, detalhes = "Add: 10 - hamburguer qtd:30", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:06:57.213329924 UTC, acao = Add, detalhes = "Add: 7 - coleira qtd:2", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:07:20.580214199 UTC, acao = Add, detalhes = "Add: 11 - got qtd:11", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:07:51.272467648 UTC, acao = Update, detalhes = "Erro: Item nao encontrado", status = Falha "Erro: Item nao encontrado"}
+LogEntry {timestamp = 2025-11-14 18:08:37.604528769 UTC, acao = Update, detalhes = "Update: 1 nova qtd:4", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:09:00.17668454 UTC, acao = Remove, detalhes = "Erro: Estoque insuficiente. Disponivel: 11", status = Falha "Erro: Estoque insuficiente. Disponivel: 11"}
+LogEntry {timestamp = 2025-11-14 18:09:14.804597811 UTC, acao = Remove, detalhes = "Remove: 11 qtd:11", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:09:30.846537308 UTC, acao = Remove, detalhes = "Remove: 1 qtd:1", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:30:04.026632279 UTC, acao = Add, detalhes = "Add: 1 - CAMA qtd:2", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:30:27.397740684 UTC, acao = Add, detalhes = "Erro: Item ja existe no inventario", status = Falha "Erro: Item ja existe no inventario"}
+LogEntry {timestamp = 2025-11-14 18:30:46.067589466 UTC, acao = Add, detalhes = "Add: 4 - GARRAFA qtd:50", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:31:01.111237154 UTC, acao = Add, detalhes = "Add: 11 - HAMBURGUER qtd:100", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:31:35.910861503 UTC, acao = Add, detalhes = "Add: 90 - remedio qtd:33", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:32:03.85737238 UTC, acao = Remove, detalhes = "Erro: Item nao encontrado", status = Falha "Erro: Item nao encontrado"}
+LogEntry {timestamp = 2025-11-14 18:32:14.526788604 UTC, acao = Remove, detalhes = "Remove: 4 qtd:1", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:32:29.008248904 UTC, acao = Remove, detalhes = "Remove: 4 qtd:11", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:32:45.909532592 UTC, acao = Update, detalhes = "Erro: Item nao encontrado", status = Falha "Erro: Item nao encontrado"}
+LogEntry {timestamp = 2025-11-14 18:32:50.878896716 UTC, acao = Update, detalhes = "Update: 4 nova qtd:12", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:47:21.002163959 UTC, acao = Add, detalhes = "Erro: Item ja existe no inventario", status = Falha "Erro: Item ja existe no inventario"}
+LogEntry {timestamp = 2025-11-14 18:47:40.886807939 UTC, acao = Add, detalhes = "Add: 2 - tenis qtd:5", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:47:57.416250416 UTC, acao = Add, detalhes = "Add: 3 - lapis qtd:10", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:48:09.386607146 UTC, acao = Add, detalhes = "Erro: Item ja existe no inventario", status = Falha "Erro: Item ja existe no inventario"}
+LogEntry {timestamp = 2025-11-14 18:48:25.762438548 UTC, acao = Add, detalhes = "Erro: Item ja existe no inventario", status = Falha "Erro: Item ja existe no inventario"}
+LogEntry {timestamp = 2025-11-14 18:48:46.992037176 UTC, acao = Add, detalhes = "Add: 5 - suco qtd:100", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:49:00.588017131 UTC, acao = Add, detalhes = "Add: 6 - hamburguer qtd:59", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:49:11.511922057 UTC, acao = Add, detalhes = "Add: 8 - ovo qtd:12", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:49:29.864744859 UTC, acao = Add, detalhes = "Add: 9 - boneca qtd:2", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:49:45.158686752 UTC, acao = Add, detalhes = "Erro: Item ja existe no inventario", status = Falha "Erro: Item ja existe no inventario"}
+LogEntry {timestamp = 2025-11-14 18:50:03.019236183 UTC, acao = Add, detalhes = "Add: 20 - vela  qtd:3", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:50:47.499808786 UTC, acao = Add, detalhes = "Add: 15 - refrigerante qtd:8", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:52:11.829867073 UTC, acao = Remove, detalhes = "Remove: 11 qtd:3", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 18:52:32.10084091 UTC, acao = Remove, detalhes = "Erro: Estoque insuficiente. Disponivel: 97", status = Falha "Erro: Estoque insuficiente. Disponivel: 97"}
+LogEntry {timestamp = 2025-11-14 18:52:46.909174146 UTC, acao = Update, detalhes = "Update: 3 nova qtd:21", status = Sucesso}
